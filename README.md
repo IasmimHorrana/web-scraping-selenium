@@ -9,23 +9,23 @@ Este projeto realiza o scraping de dados de criptomoedas do site [CoinGecko](htt
 
 ## 🚀 Como rodar o projeto
 
-1. Clone o repositório:
+### 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
-1. Crie um ambiente virtual (opcional):
+### 1. Crie um ambiente virtual (opcional):
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 ```
-3. Instale as dependências:
+### 3. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
-4. Execute o script:
+### 4. Execute o script:
 - Teste de coleta simples (apenas uma página):
 ```bash
 python main.py
