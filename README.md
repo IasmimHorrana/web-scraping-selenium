@@ -53,6 +53,6 @@ Este repositório é focado em scraping com **`requests`**.
 
 🔄 Para scraping com **Selenium**, consulte o projeto complementar: 
 
-👉 [CoinGecko Scraper com Selenium](https://github.com/IasmimHorrana/CoinGecko-Scraper-com-Selenium) (Em andamento...)
+👉 [CoinGecko Scraper com Selenium](https://github.com/IasmimHorrana/CoinGecko-Scraper-com-Selenium)
 
 
